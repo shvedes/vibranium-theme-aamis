@@ -1,9 +1,9 @@
 # Port of the Aamis theme for Omarchy:
 # https://github.com/vyrx-dev/omarchy-aamis-theme
 
-black_dim = "#333333"
-black = "#404040"
-black_bright = "#4d4d4d"
+black_dim = "#161616"
+black = "#1b1b1b"
+black_bright = "#212121"
 
 red_dim = "#ad1f33"
 red = "#e25d6c"
